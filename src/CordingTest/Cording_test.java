@@ -1,3 +1,5 @@
+package CordingTest;
+
 public class Cording_test {
     public static void main(String[] args) {
         int n = 20;
